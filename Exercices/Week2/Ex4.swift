@@ -1,24 +1,23 @@
 // Create a constant with a number between 1 and 7
 // Display a message with the name of the day of the week in full
-// Consider 1 as Sunday
+// Consider 1 as Sunday and use only if and else
 
 let number = 6
 
-switch number {
-case 1:
+if number == 1 {
     print("Sunday")
-case 2:
+} else if number == 2 {
     print("Monday")
-case 3:
+} else if number == 3 {
     print("Tuesday")
-case 4:
+} else if number == 4 {
     print("Wednesday")
-case 5:
+} else if number == 5 {
     print("Thursday")
-case 6:
+} else if number == 6 {
     print("Friday")
-case 7:
+} else if number == 7 {
     print("Saturday")
-default:
+} else {
     print("Invalid number. Please enter a number between 1 and 7.")
 }
