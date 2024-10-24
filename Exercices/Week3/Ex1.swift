@@ -1,4 +1,3 @@
-// Exercise 1
 // Create arrays for honor roll students, movies, and prime numbers.
 // Remove the last movie from the list.
 
