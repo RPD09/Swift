@@ -6,7 +6,7 @@
 
 ## 📂 Contents
 
-- [Basics](#basics)
+- [Basics](https://github.com/RPD09/Swift/tree/main/Basics)
   
 ---
 
